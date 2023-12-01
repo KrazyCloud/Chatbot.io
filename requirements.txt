@@ -1,0 +1,6 @@
+youtube_transcript_api
+streamlit
+nltk
+scikit-learn
+transformers
+torch
