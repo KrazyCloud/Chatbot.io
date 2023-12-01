@@ -1,6 +1,7 @@
 youtube_transcript_api
 streamlit
 nltk
+regex
 scikit-learn
 transformers
 torch
